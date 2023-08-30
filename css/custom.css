@@ -13,6 +13,9 @@ a.button{
 #toggle-lets-nav{
   display: none;
 }
+.course-hero .course-image{
+  background-image: url("../assets/images/Boshsahifa.png")!Important;
+}
 
 @media (max-width: 768px){
   .course-hero h1{
